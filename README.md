@@ -13,7 +13,7 @@ Hello! I'm Taha, a passionate Learner with a love for creating innovative soluti
 
 ## Projects
 
-you can find all about my projects on my website
+you can find all about my projects on my website [Portfolio Website]( https://m2cci-belkhayt.github.io/Cv-and-portfolio/)
 
 - 💼 Working on: [Your Current Project]
 - 🔭 I’m currently working on ...
@@ -24,9 +24,9 @@ you can find all about my projects on my website
 ## 💬 Contact
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to connect!
-- 📫 How to reach me: [Your Email or LinkedIn Profile]
-- **Email**: [belkhayatetaha@gmail.com]
-- **LinkedIn**: [Your LinkedIn Profile]
+- 📫 How to reach me: 
+- **Email**: [Taha](belkhayatetaha1@gmail.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/taha-belkhayate/)
 
 
 Thanks for stopping by! 😊
