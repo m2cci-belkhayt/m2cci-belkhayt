@@ -5,8 +5,8 @@ Hello! I'm Taha, a passionate Learner with a love for creating innovative soluti
 
 
 
-## Skills
-- 🌱 Currently learning: [What You're Learning]
+## 🌱 Skills
+-  Currently learning: [What You're Learning]
 - **Languages**: [List your programming languages]
 - **Frameworks**: [List frameworks you use]
 - **Tools**: [List your tools and technologies]
